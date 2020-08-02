@@ -5,8 +5,6 @@ Purpose: This program uses radixSort algorithm to sort an
 		 ArrayList of Integers in increasing order. If the 
 		 ArrayList contains an odd number, an error message
 		 is printed.
-Certification: I hereby certify that this work is my own
-  		  and none of it is the work of any other person.
  **************************************************************/ 
 public class RadixSort {
 	/*
