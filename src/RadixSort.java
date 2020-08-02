@@ -1,6 +1,6 @@
 import java.util.Arrays;
 /**************************************************************
-Author's Panther ID: 3276301
+Author: Megan Jane Thompson
 Purpose: This program uses radixSort algorithm to sort an
 		 ArrayList of Integers in increasing order. If the 
 		 ArrayList contains an odd number, an error message
